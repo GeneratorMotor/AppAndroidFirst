@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGs5NlVbWbt7i2Szo4u/XEggGUbAzZruvYU+YIjljlAL8slqWRLlghKqF6Tdo729qIkuzREeRyHgsu4KjGDQIQ==",
+  "success": true,
+  "projectFilePath": "F:\\Android\\AppAndroid1QRCodeSolution\\AppAndroid1\\AppAndroid1.iOS\\AppAndroid1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dugin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\dugin\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\dugin\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
